@@ -1,4 +1,6 @@
 # ApiDoc
+jazzy是一个命令行工具，用来生成 Swift 或 Objective-C 文档。
+
 
 # 介绍
 
